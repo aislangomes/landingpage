@@ -14,9 +14,9 @@
 }
 
 :root {
-  --brand-gradient: linear-gradient(#FC4A1A, #F7B733);
   --brand-color-primary: #F7B733;
   --brand-color-secondary: #FC4A1A;
+  --brand-gradient: linear-gradient(90deg, var(--brand-color-secondary) 0%, var(--brand-color-primary) 100%);
 
   --background-color: #09090B;
   --surface-color: #18181B;
