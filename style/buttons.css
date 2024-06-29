@@ -44,7 +44,7 @@
     content: "";
     position: absolute;
     border-radius: inherit;
-    inset: 1.5px;
+    inset: 2px;
     background-color: var(--background-color);
   }
 
